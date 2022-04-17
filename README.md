@@ -3,6 +3,7 @@
 # uniprofile
 
 A C++17 Header-Only, crossplatform and easy to implement profiler for applications.
+Licensed under the MIT license.
 
 [Download here.](https://github.com/PipeWarp/uniprofile/blob/master/include/uniprofile.h)
 
