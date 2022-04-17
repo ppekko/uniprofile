@@ -17,7 +17,7 @@ int main()
     profile.endProfile("Function 1");
 
     profile.startProfile("Function 2");
-    usleep(5*1000000); // s;ee[ fpr 5 seconds]
+    usleep(5*1000000); // sleep for 5 seconds]
     profile.endProfile("Function 2");
 
     profile.dumpAllProfiles("log.txt");
