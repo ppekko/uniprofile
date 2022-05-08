@@ -1,16 +1,13 @@
-![banner](./brand/banner.png "banner")
+
 
 # uniprofile
 
 A C++17 Header-Only, crossplatform and easy to implement profiler for applications.
 Licensed under the MIT license.
 
-[Download here.](https://github.com/PipeWarp/uniprofile/blob/master/include/uniprofile.h)
+[Download here.](https://github.com/pipe/uniprofile/blob/master/include/uniprofile.h)
 
 
-<p align="center">
-<img src="./brand/icon.png" alt="drawing" width="200" height="200"/>
-</p>
 
 
 # Usage
@@ -20,7 +17,7 @@ As for code, you will need to set a callback to a function that will return the 
 
 To dump all the profiling info into a file, run `.dumpAllProfiles()`, with the file location being the argument.
 
-[You can view the example project to get a better understanding on how to implement this library](https://github.com/kb-x/uniprofile/blob/master/example/)
+[You can view the example project to get a better understanding on how to implement this library](https://github.com/ppekko/uniprofile/blob/master/example/)
 
 # Why C++17
 im lazy and i dont want to implement my own sorting algorithm, so im using std::sort.
